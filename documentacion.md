@@ -1,13 +1,13 @@
-#Curso PHP
+# Curso PHP
 
-##Funciones
+## Funciones
 https://www.php.net/manual/es/funcref.php
 
-##Funciones matemáticas
+## Funciones matemáticas
 https://www.php.net/manual/es/ref.math.php
 
-##Funciones para String
+## Funciones para String
 https://www.php.net/manual/es/book.strings.php
 
-##Funciones de date
+## Funciones de date
 https://www.php.net/manual/es/function.date.php
