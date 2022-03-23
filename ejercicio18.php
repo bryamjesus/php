@@ -1,6 +1,6 @@
 <?php
 //$numero_aleatorio = rand(1,10);
-
+echo '<h1>Funciones de numeros</h1>';
 function imprimirNumero($numero_min="", $numero_max=""){
     if((empty($numero_min)) && (empty($numero_max))){
         $numero_aleatorio = rand();

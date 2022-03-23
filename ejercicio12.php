@@ -6,7 +6,7 @@ if ($_POST) {
 
     if ($numero_uno != $numero_dos) { # != == <
         echo "A != B";
-    }else{
+    } else {
         echo "A == B";
     }
 }
@@ -21,6 +21,7 @@ if ($_POST) {
 </head>
 
 <body>
+    <h1>IF ELSE</h1>
     <form action="ejercicio12.php" method="post">
         <label for="num_uno">Numero Uno:</label>
         <input type="text" name="numero_uno" id="">

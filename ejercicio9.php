@@ -19,6 +19,7 @@ if ($_POST) {
 </head>
 
 <body>
+    <h1>Condicionales</h1>
     <form action="ejercicio9.php" method="post">
         <label for="num_uno">Numero Uno:</label>
         <input type="text" name="numero_uno" id="">

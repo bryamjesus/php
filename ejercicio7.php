@@ -1,8 +1,6 @@
 <?php
 
-/*********************
-Uso de constante
-**********************/
+echo '<h1>Constante</h1>';
 $edad = 32;
 echo $edad."<br>";
 

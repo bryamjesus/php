@@ -28,6 +28,7 @@ if ($_POST) {
 </head>
 
 <body>
+    <h1>If anidados</h1>
     <form action="ejercicio11.php" method="post">
         <label for="num_uno">Numero Uno:</label>
         <input type="text" name="numero_uno" id="">

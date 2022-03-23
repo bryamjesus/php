@@ -27,6 +27,7 @@ if ($_POST) {
 </head>
 
 <body>
+    <h1>SWITCH</h1>
     <form action="ejercicio13.php" method="post">
         <input type="submit" name="btn_valor" value="1">
         <br>

@@ -1,4 +1,5 @@
 <?php
+echo '<h1>Arreglos de índice numérico</h1>';
      $frutas = array('manzana','pera','mandarina','platano');
 
      print_r($frutas);

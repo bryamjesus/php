@@ -18,7 +18,7 @@ if ($_POST) { #¿hicieron un envio?
 </head>
 
 <body>
-    <h1>Hola Mundo desde HTML</h1>
+    <h1>Obtension de datos</h1>
     <form action="ejercicio2.php" method="post">
         <label for="nombre">Nombre</label>
         <input type="text" name="txtNombre" id="">
