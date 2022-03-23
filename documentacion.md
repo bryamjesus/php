@@ -11,3 +11,6 @@ https://www.php.net/manual/es/book.strings.php
 
 ## Funciones de date
 https://www.php.net/manual/es/function.date.php
+
+## Funciones de array
+https://www.php.net/manual/es/ref.array.php
